@@ -1,0 +1,72 @@
+<!DOCTYPE html> 
+<html>
+<head> <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Cabin:ital,wght@0,400..700;1,400..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<meta charset "utf-8"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Garantía y políticas de servicio</title>
+	<link rel="stylesheet" href="estilos1.css">
+</head>
+<body>
+<div class="logo">
+<img width "100px" alt="logo" src="logo.png" width="200" height="200"/>
+</div>
+<div class="container">
+		<div class="text-div">
+<h2>Garantía y políticas de servicio:</h2>
+		</div>
+		
+<ul>
+                <div class="text-div">
+
+<strong><li>Garantía de Reparación</li></strong>
+<p>Ofrecemos una garantía de 6 meses en todas nuestras reparaciones. 
+Si el problema persiste o surge uno relacionado, lo solucionamos sin costo adicional.</p>
+		</div>
+		<div class="text-div">
+<strong><li>Garantía de piezas</li></strong>
+<p>Las piezas que utilizamos tienen una garantía de 1 año. 
+Si alguna pieza falla durante este tiempo, la reemplazamos sin coste.</p>
+		</div>
+		<div class="text-div">
+<strong><li>Compromiso de satisfacción</li></strong>
+<p>Nos esforzamos por tu satisfacción total. Si no estás satisfecho con nuestro servicio,
+corregiremos el problema o te devolveremos tu dinero.</p>
+</ul>
+		</div>
+<div class="img-box">
+<img widht="1000px" alt="garantía" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRSYmVvQ-vrV0UriYBK56o2qsUaDQFMihpvQ&s.jpg" widht="200" height="200"/> 
+</div>
+
+<h2>Enlaces</h2>
+
+<a class="button" href="Sobre nosotros con estilo.html">Picha aquí para saber más de nosotros</a><br>
+
+<a class="button" href="Formulario de contacto.html">Contacta con nosotros</a><br>
+
+
+<a class="button" href="Tipos de servicios que ofrecemos con estilo.html">Servicios que ofrecemos</a><br>
+
+
+<a class="button" href="Opiniones de clientes.html>Pincha aquí para ver que opinan nuestros clientes</a><br>
+
+
+<a class="button" href="Casos de éxito.html">Casos de éxito</a><br>
+
+
+<a class="button" href="Maps.html">Localización</a><br>
+
+
+<a class="button" href="Blog-Artículos con estilo.html">Blog</a><br>
+
+
+<a class="button" href="Preguntas frecuentes.html">Preguntas frecuentes</a><br>
+	
+
+<a class="button" href="Página principal con estilo.html">Página principal</a><br>
+		
+   <script src="garantia.js"></script>
+</div>
+</body>
+</html>

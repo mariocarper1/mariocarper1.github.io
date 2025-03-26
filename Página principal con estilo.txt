@@ -1,0 +1,103 @@
+<!DOCTYPE html> 
+<html>
+<head> <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Cabin:ital,wght@0,400..700;1,400..700&family=Exo+2:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+	<meta charset "utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<title> Página principal </title>
+	<link rel="stylesheet" href="estilos1.css">
+</head>
+<body>
+<div class="logo">
+<img width "100px" alt="logo" src="logo.png" width="200" height="200"/>
+</div>
+ <div class="container">
+		<div class="text-div">
+<h1> TECHGADGETS EXPRESS </h1> 
+		</div>
+	<div class="gif-container">
+	<img src="https://media2.giphy.com/media/hWhzyAxIu6rVS5AKbP/giphy.gif?cid=790b7611pdh28yq3lf52t1rxxtc78hx9l1ofv5ltywtwi6zw&ep=v1_gifs_search&rid=giphy.gif&ct=g.gif" alt="gif robot">
+	</div>
+<br>
+		<div class="text-div">
+<p>Expertos en reparación de móviles, tablets y más.</p>
+		</div>
+<hr>	
+		<div class="text-div">
+<ul>
+	<h2><li>Conócenos:</li></h2>
+</ul>
+	<a class="button" href="Sobre nosotros con estilo.html">Pincha aquí para saber más sobre nosotros</a>
+		</div>
+		<div class="text-div">
+<ul>
+	<h2><li>Contacta con nosotros:</li></h2>
+</ul>
+	<a class="button" href="Formulario de contacto.html">Picha aquí para contactar con nosotros</a>
+		</div>
+		<div class="text-div">
+<ul>
+	<h2><li>Servicios Principales:</li></h2>
+</ul>
+<p>En TechgadgetsExpress ofrecemos reparaciones rápidas y efectivas para dispositivos móviles,
+tablets, portátiles y más. 
+Desde pantallas rotas y baterías desgastadas hasta problemas de software y conectores de carga,
+nuestro equipo está preparado para solucionar cualquier fallo técnico.</p>
+	<a class="button" href="Tipos de servicios que ofrecemos con estilo".html>Ver más detalles de nuestros servicios</a>
+		</div>
+		<div class="text-div">
+<ul>
+	<h2><li>Opiniones de clientes</li></h2>
+</ul>	
+<p>Nuestros clientes confían en nosotros por la calidad y rapidez de nuestros servicios. 
+Aquí tienes algunas de sus experiencias:</p>
+	<a class="button" href="Opiniones de clientes.html">Pincha aquí</a>
+		</div>
+		<div class="text-div">
+<ul>
+	<h2><li>Preguntas frecuentes</li></h2>
+</ul>
+<p>¿Tienes dudas? Consulta nuestras respuestas a las preguntas 
+más comunes sobre tiempos de reparación, garantías, y costos.</p>
+	<a class="button" href="Preguntas frecuentes.html">Pincha aquí</a>
+		</div>
+		<div class="text-div">
+<ul>
+	<h2><li>Garantía y políticas de servicio</li></h2>
+</ul>
+<p>Ofrecemos garantía en todas nuestras reparaciones para asegurar tu tranquilidad.
+Conoce nuestras políticas y tiempos de entrega aquí.</p>
+	<a class="button" href="Garantía y políticas de servicio con estilo.html">Pincha aquí</a>
+		</div>
+		<div class="text-div">
+<ul>
+	<h2><li>Blog</li></h2>
+</ul>
+<p>¿Tienes dudas? Consulta nuestras respuestas a las preguntas 
+más comunes sobre tiempos de reparación, garantías, y costos.</p>
+	<a class="button" href="Blog-Artículos con estilo.html">Pincha aquí</a>
+		</div>
+		<div class="text-div">
+<ul>
+	<h2><li>Casos de éxito</li></h2>
+</ul>
+<p>Aquí te mostramos algunos ejemplos de reparaciones exitosas que hemos realizado para 
+nuestros clientes.¡Mira el antes y después!</p>
+	<a class="button" href="Casos de éxito.html">Picha aquí</a>
+		</div>	
+		<div class="text-div">
+<ul>
+	<h2><li>Localización</li></h2>
+</ul>
+<p>Echa un ojo a ver dónde estamos:</p>
+	<a class="button" href="Maps.html">Pincha aquí</a>
+		</div>	
+	<div class="video-container">
+ <strong><h3>Mira este vídeo sobre nuestras reparaciones:</h3></strong> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c8KswHj0_hw" frameborder="0" allowfullscreen> </iframe> 
+        </div> 
+</div>
+<script src="paginaprincipal.js"></script>
+</body>
+</html>
